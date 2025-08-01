@@ -1,6 +1,6 @@
 # habit_logger
 
-Descripción del Proyecto
+
 Habit Logger es una aplicación móvil desarrollada con Flutter que te ayuda a establecer, rastrear y mantener hábitos saludables. La aplicación está diseñada para ser intuitiva y motivadora, permitiéndote registrar tu progreso diario y construir rutinas consistentes para tu bienestar personal.
 
 ✨ Características Principales
